@@ -17,7 +17,7 @@ article_template: jinja_text.txt
 ## 最近のBlog
 
 {% for ent in  page.feed %}
-- [{{ ent['title'] }}]({{ ent['url'] }}) ({{ ent['published'].strftime('%y-%m-%d') }})
+- [{{ ent['title'] }}]({{ ent['url'] }}) ({{ ent['published'].strftime('%Y-%m-%d') }})
 {%- endfor %}
 
 

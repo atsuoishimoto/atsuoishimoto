@@ -28,6 +28,5 @@ def get_feed(url):
 @initialized
 def set_feed(site):
     feed = get_feed('https://aish.dev/all.atom.xml')
-    print(feed)
     site.config.add("/", {'feed':feed})
     site.rebuild = True
