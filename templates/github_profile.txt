@@ -1,0 +1,7 @@
+{% macro rss() -%}
+  abcdefg<>
+{%- endmacro %}
+
+
+{{ page.eval_body()  }}
+
