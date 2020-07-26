@@ -29,7 +29,7 @@ article_template: jinja_text.txt
 - [パーフェクトPython](https://www.amazon.co.jp/dp/B00P2EG5QM) (共著 2013 技術評論社)
 
 
-## 雑誌など:
+## 雑誌など
 
 - Pythonテキスト処理の始め方 (技術評論社 Software Design 2020年2月)
 - プログラムの並列処理で失敗しないためのポイント (技術評論社 Software Design 2019年2月)
@@ -37,7 +37,7 @@ article_template: jinja_text.txt
 - Zopeの紹介 (技術評論社 Software Design 2000年9月)
 - Pythonの紹介 (技術評論社Software Design 2000年7月)
 
-## 講演など：
+## 講演など
 
 - [あのころのPython](https://speakerdeck.com/atsuoishimoto/python2-eol-62a3aa5b-381a-4060-a770-cc317cc076fa) (Python 2 EOL Party キーノート 2020.2)
 - [プログラミング言語 Python](https://www.slideshare.net/atsuoishimoto/python-137065037) (電子情報通信学会エレクトロニクスシミュレーション研究会 2019.3)
