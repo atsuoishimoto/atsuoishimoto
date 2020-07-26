@@ -13,16 +13,16 @@
 ## 最近のBlog
 
 
-- [Flex 絵文字ビルダーの裏側](https://aish.dev/misc/flexemoji.html) (20-07-21)
-- [asyncioのTaskに関する基礎知識](https://aish.dev/python/20200711_asyncio_task.html) (20-07-11)
-- [macOSでデフォルトのPATHは？](https://aish.dev/python/20200710-macos-origin-of-default-path.html) (20-07-10)
-- [WindowsでCapsLockキーをCtrlに変更するPythonスクリプト](https://aish.dev/python/20200710-capslock-to-ctrl.html) (20-07-10)
-- [宣言と定義](https://aish.dev/misc/declareanddefine.html) (20-06-29)
-- [プログラムは分割しようという話](https://aish.dev/misc/divideandconcur.html) (20-06-25)
-- [Ansibleで、Playbookを作らずにロールを指定して実行](https://aish.dev/python/202006230000.html) (20-06-23)
-- [&#91;Python&#93; 正しくない global の使い方](https://aish.dev/python/localorglobal.html) (20-06-22)
-- [Pythonは名前だらけ](https://aish.dev/python/python_namespace.html) (20-06-21)
-- [JupyterLab CMS化計画](https://aish.dev/misc/20200619-jupyterlabcms.html) (20-06-19)
+- [Flex 絵文字ビルダーの裏側](https://aish.dev/misc/flexemoji.html) (2020-07-21)
+- [asyncioのTaskに関する基礎知識](https://aish.dev/python/20200711_asyncio_task.html) (2020-07-11)
+- [macOSでデフォルトのPATHは？](https://aish.dev/python/20200710-macos-origin-of-default-path.html) (2020-07-10)
+- [WindowsでCapsLockキーをCtrlに変更するPythonスクリプト](https://aish.dev/python/20200710-capslock-to-ctrl.html) (2020-07-10)
+- [宣言と定義](https://aish.dev/misc/declareanddefine.html) (2020-06-29)
+- [プログラムは分割しようという話](https://aish.dev/misc/divideandconcur.html) (2020-06-25)
+- [Ansibleで、Playbookを作らずにロールを指定して実行](https://aish.dev/python/202006230000.html) (2020-06-23)
+- [&#91;Python&#93; 正しくない global の使い方](https://aish.dev/python/localorglobal.html) (2020-06-22)
+- [Pythonは名前だらけ](https://aish.dev/python/python_namespace.html) (2020-06-21)
+- [JupyterLab CMS化計画](https://aish.dev/misc/20200619-jupyterlabcms.html) (2020-06-19)
 
 
 ## 著書:
