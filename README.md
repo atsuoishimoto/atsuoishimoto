@@ -13,6 +13,7 @@
 ## 最近のBlog
 
 
+- [Github Profileの設定](https://aish.dev/misc/githubprofile.html) (2020-07-26)
 - [Flex 絵文字ビルダーの裏側](https://aish.dev/misc/flexemoji.html) (2020-07-21)
 - [asyncioのTaskに関する基礎知識](https://aish.dev/python/20200711_asyncio_task.html) (2020-07-11)
 - [macOSでデフォルトのPATHは？](https://aish.dev/python/20200710-macos-origin-of-default-path.html) (2020-07-10)
@@ -22,7 +23,6 @@
 - [Ansibleで、Playbookを作らずにロールを指定して実行](https://aish.dev/python/202006230000.html) (2020-06-23)
 - [&#91;Python&#93; 正しくない global の使い方](https://aish.dev/python/localorglobal.html) (2020-06-22)
 - [Pythonは名前だらけ](https://aish.dev/python/python_namespace.html) (2020-06-21)
-- [JupyterLab CMS化計画](https://aish.dev/misc/20200619-jupyterlabcms.html) (2020-06-19)
 
 
 ## 著書:
