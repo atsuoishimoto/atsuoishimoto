@@ -13,6 +13,7 @@
 ## 最近のBlog
 
 
+- [PyArrowとParquet](https://aish.dev/python/20200728_pyarrow.html) (2020-07-28)
 - [Fletsのルータ設定](https://aish.dev/misc/20200728-closed-port.html) (2020-07-28)
 - [Github Profileの設定](https://aish.dev/misc/githubprofile.html) (2020-07-26)
 - [Flex 絵文字ビルダーの裏側](https://aish.dev/misc/flexemoji.html) (2020-07-21)
@@ -22,7 +23,6 @@
 - [宣言と定義](https://aish.dev/misc/declareanddefine.html) (2020-06-29)
 - [プログラムは分割しようという話](https://aish.dev/misc/divideandconcur.html) (2020-06-25)
 - [Ansibleで、Playbookを作らずにロールを指定して実行](https://aish.dev/python/202006230000.html) (2020-06-23)
-- [&#91;Python&#93; 正しくない global の使い方](https://aish.dev/python/localorglobal.html) (2020-06-22)
 
 
 ## 著書:
