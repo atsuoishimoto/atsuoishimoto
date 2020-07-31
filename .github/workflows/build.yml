@@ -17,13 +17,17 @@ jobs:
         with:
           python-version: 3.8
 
+      - name: Save Python path
+        run: |
+          which python3 > python3_path.txt
+
       - name: Cache download dependencies
         uses: actions/cache@v1
         with:
           path: ~/.cache
-          key: ${{ runner.os }}-pip2-${{ hashFiles('requirements.txt') }}
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt', 'python3_path.txt') }}
           restore-keys: |
-            ${{ runner.os }}-pip-
+            ${{ runner.os }}-pip3-
 
       - name: Create venv
         run: |
@@ -33,9 +37,9 @@ jobs:
         uses: actions/cache@v1
         with:
           path: .venv
-          key: ${{ runner.os }}-venv2-${{ hashFiles('requirements.txt') }}
+          key: ${{ runner.os }}-venv-${{ hashFiles('requirements.txt', 'python3_path.txt') }}
           restore-keys: |
-            ${{ runner.os }}-venv2-
+            ${{ runner.os }}-venv3-
 
       - name: Install dependencies
         run: |
