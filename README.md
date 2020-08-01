@@ -17,6 +17,7 @@
 ## 最近のBlog
 
 
+- [Github actionでvenv環境をキャッシュする](https://aish.dev/misc/20200801-cache-github-action.html) (2020-08-01)
 - [PyArrowとParquet](https://aish.dev/python/20200728_pyarrow.html) (2020-07-28)
 - [Fletsのルータ設定](https://aish.dev/misc/20200728-closed-port.html) (2020-07-28)
 - [Github Profileの設定](https://aish.dev/misc/githubprofile.html) (2020-07-26)
@@ -26,7 +27,6 @@
 - [WindowsでCapsLockキーをCtrlに変更するPythonスクリプト](https://aish.dev/python/20200710-capslock-to-ctrl.html) (2020-07-10)
 - [宣言と定義](https://aish.dev/misc/declareanddefine.html) (2020-06-29)
 - [プログラムは分割しようという話](https://aish.dev/misc/divideandconcur.html) (2020-06-25)
-- [Ansibleで、Playbookを作らずにロールを指定して実行](https://aish.dev/python/202006230000.html) (2020-06-23)
 
 
 ## 著書:
