@@ -17,6 +17,7 @@
 ## 最近のBlog
 
 
+- [&#91;Python&#93; jashin.dictattrで辞書の要素を属性値として参照する](https://aish.dev/python/jasin_dictattr.html) (2020-08-22)
 - [久しぶりに、 Raindrop.io の Python API に手を入れてみた](https://aish.dev/misc/20200819-raindropio-refresh-token.html) (2020-08-19)
 - [&#91;JupyterLab&#93; macOSでターミナルのalt+キーバインディングを使う](https://aish.dev/misc/20200813-jupyter-macOptionIsMeta.html) (2020-08-13)
 - [Github actionでvenv環境をキャッシュする](https://aish.dev/misc/20200801-cache-github-action.html) (2020-08-01)
@@ -26,7 +27,6 @@
 - [Flex 絵文字ビルダーの裏側](https://aish.dev/misc/flexemoji.html) (2020-07-21)
 - [asyncioのTaskに関する基礎知識](https://aish.dev/python/20200711_asyncio_task.html) (2020-07-11)
 - [macOSでデフォルトのPATHは？](https://aish.dev/python/20200710-macos-origin-of-default-path.html) (2020-07-10)
-- [WindowsでCapsLockキーをCtrlに変更するPythonスクリプト](https://aish.dev/python/20200710-capslock-to-ctrl.html) (2020-07-10)
 
 
 ## 著書:
