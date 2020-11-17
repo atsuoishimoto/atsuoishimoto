@@ -4,6 +4,7 @@
 *.so
 *.pyc
 *.egg-info
+*.db
 dist
 build
 .DS_Store

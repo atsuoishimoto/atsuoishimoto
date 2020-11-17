@@ -10,11 +10,8 @@ article_template: jinja_text.txt
 [python.jp](https://www.python.jp) 管理人
 
 - [Twitter: @AtsuoIshimoto](https://twitter.com/atsuoishimoto)
-
 - [Github: atsuoishimoto](https://github.com/atsuoishimoto)
-
 - [Blog: aish.dev](https://aish.dev)
-
 - [旧Blog: atsuoishimoto.hatenablog.com](https://atsuoishimoto.hatenablog.com/)
 
 

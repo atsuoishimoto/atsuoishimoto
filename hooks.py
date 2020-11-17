@@ -27,6 +27,9 @@ def get_feed(url):
 
 @initialized
 def set_feed(site):
-    feed = get_feed('https://aish.dev/all.atom.xml')
-    site.config.add("/", {'feed':feed})
+    feed1 = get_feed('https://aish.dev/all.atom.xml')
+    feed2 = get_feed('https://zenn.dev/atsuoishimoto/feed')
+    feeds = reversed(sorted(feed1 + feed2, key=lambda d:(d['published'], d['title'])))
+
+    site.config.add("/", {'feed':feeds})
     site.rebuild = True
