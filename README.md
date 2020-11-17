@@ -6,11 +6,8 @@
 [python.jp](https://www.python.jp) 管理人
 
 - [Twitter: @AtsuoIshimoto](https://twitter.com/atsuoishimoto)
-
 - [Github: atsuoishimoto](https://github.com/atsuoishimoto)
-
 - [Blog: aish.dev](https://aish.dev)
-
 - [旧Blog: atsuoishimoto.hatenablog.com](https://atsuoishimoto.hatenablog.com/)
 
 
@@ -18,6 +15,7 @@
 
 
 - [Pythonを闇改造して辞書リテラルのキー名や関数呼び出しの引数名を省略できるようにしてみた](https://aish.dev/python/keyword-shorthand.html) (2020-11-10)
+- [Pythonのタイムゾーンはpytzよりzoneinfoかdateutils.tzを使おう、という話](https://zenn.dev/atsuoishimoto/articles/505b3f4831443a1b63ad) (2020-09-29)
 - [&#91;Python&#93; jashin.dictattrで辞書の要素を属性値として参照する](https://aish.dev/python/jasin_dictattr.html) (2020-08-22)
 - [久しぶりに、 Raindrop.io の Python API に手を入れてみた](https://aish.dev/misc/20200819-raindropio-refresh-token.html) (2020-08-19)
 - [&#91;JupyterLab&#93; macOSでターミナルのalt+キーバインディングを使う](https://aish.dev/misc/20200813-jupyter-macOptionIsMeta.html) (2020-08-13)
