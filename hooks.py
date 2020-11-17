@@ -31,5 +31,5 @@ def set_feed(site):
     feed2 = get_feed('https://zenn.dev/atsuoishimoto/feed')
     feeds = reversed(sorted(feed1 + feed2, key=lambda d:(d['published'], d['title'])))
 
-    site.config.add("/", {'feed':feeds})
+    site.config.add("/", {'feed':feeds[:20]})
     site.rebuild = True
