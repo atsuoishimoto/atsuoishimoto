@@ -14,6 +14,7 @@
 ## 最近のBlog
 
 
+- [Django メモ集](https://aish.dev/python/django-memo.html) (2020-11-21)
 - [Pythonを闇改造して辞書リテラルのキー名や関数呼び出しの引数名を省略できるようにしてみた](https://aish.dev/python/keyword-shorthand.html) (2020-11-10)
 - [Pythonのタイムゾーンはpytzよりzoneinfoかdateutils.tzを使おう、という話](https://zenn.dev/atsuoishimoto/articles/505b3f4831443a1b63ad) (2020-09-29)
 - [&#91;Python&#93; jashin.dictattrで辞書の要素を属性値として参照する](https://aish.dev/python/jasin_dictattr.html) (2020-08-22)
@@ -24,7 +25,6 @@
 - [Fletsのルータ設定](https://aish.dev/misc/20200728-closed-port.html) (2020-07-28)
 - [Github Profileの設定](https://aish.dev/misc/githubprofile.html) (2020-07-26)
 - [Flex 絵文字ビルダーの裏側](https://aish.dev/misc/flexemoji.html) (2020-07-21)
-- [asyncioのTaskに関する基礎知識](https://aish.dev/python/20200711_asyncio_task.html) (2020-07-11)
 
 
 ## 著書:
