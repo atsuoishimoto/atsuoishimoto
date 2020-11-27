@@ -14,7 +14,7 @@
 ## 最近のBlog
 
 
-- [ORMにおけるN+1の重たさについて](https://aish.dev/misc/orm_n1problem.html) (2020-11-26)
+- [N+1問題におけるORMの重たさについて](https://aish.dev/misc/orm_n1problem.html) (2020-11-26)
 - [Django メモ集](https://aish.dev/python/django-memo.html) (2020-11-21)
 - [Pythonを闇改造して辞書リテラルのキー名や関数呼び出しの引数名を省略できるようにしてみた](https://aish.dev/python/keyword-shorthand.html) (2020-11-10)
 - [Pythonのタイムゾーンはpytzよりzoneinfoかdateutils.tzを使おう、という話](https://zenn.dev/atsuoishimoto/articles/505b3f4831443a1b63ad) (2020-09-29)
