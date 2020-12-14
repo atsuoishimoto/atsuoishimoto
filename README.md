@@ -14,6 +14,7 @@
 ## 最近のBlog
 
 
+- [Jupyter Lab 小技集](https://aish.dev/misc/jupyterlab-tips.html) (2020-12-14)
 - [N+1問題におけるORMの重たさについて](https://aish.dev/misc/orm_n1problem.html) (2020-11-26)
 - [Django メモ集](https://aish.dev/python/django-memo.html) (2020-11-21)
 - [Pythonを闇改造して辞書リテラルのキー名や関数呼び出しの引数名を省略できるようにしてみた](https://aish.dev/python/keyword-shorthand.html) (2020-11-10)
@@ -24,7 +25,6 @@
 - [Github actionでvenv環境をキャッシュする](https://aish.dev/misc/20200801-cache-github-action.html) (2020-08-01)
 - [PyArrowとParquet](https://aish.dev/python/20200728_pyarrow.html) (2020-07-28)
 - [Fletsのルータ設定](https://aish.dev/misc/20200728-closed-port.html) (2020-07-28)
-- [Github Profileの設定](https://aish.dev/misc/githubprofile.html) (2020-07-26)
 
 
 ## 著書:
