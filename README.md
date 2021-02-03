@@ -14,6 +14,7 @@
 ## 最近のBlog
 
 
+- [tse サンプル](https://aish.dev/python/tsesample.html) (2021-01-28)
 - [Pythonのhasattr()は遅い?](https://aish.dev/python/ishasattrslow.html) (2021-01-07)
 - [Jupyter Lab 小技集](https://aish.dev/misc/jupyterlab-tips.html) (2020-12-14)
 - [N+1問題におけるORMの重たさについて](https://aish.dev/misc/orm_n1problem.html) (2020-11-26)
@@ -24,7 +25,6 @@
 - [久しぶりに、 Raindrop.io の Python API に手を入れてみた](https://aish.dev/misc/20200819-raindropio-refresh-token.html) (2020-08-19)
 - [&#91;JupyterLab&#93; macOSでターミナルのalt+キーバインディングを使う](https://aish.dev/misc/20200813-jupyter-macOptionIsMeta.html) (2020-08-13)
 - [Github actionでvenv環境をキャッシュする](https://aish.dev/misc/20200801-cache-github-action.html) (2020-08-01)
-- [PyArrowとParquet](https://aish.dev/python/20200728_pyarrow.html) (2020-07-28)
 
 
 ## 著書:
