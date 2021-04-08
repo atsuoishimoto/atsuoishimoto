@@ -14,6 +14,7 @@
 ## 最近のBlog
 
 
+- [Google Analytics APIでAdsenseの売上を取得する](https://aish.dev/python/20210408-google-analytics-adsenseRevenue.html) (2021-04-08)
 - [Django Rest Frameworkの処理メモ](https://aish.dev/python/djangorestframework-impl-memo.html) (2021-04-02)
 - [Google Analyticsの「今日」を開くブックマークレット](https://aish.dev/misc/20210225-bookmarklet-analytics-today.html) (2021-02-25)
 - [tse サンプル](https://aish.dev/python/tsesample.html) (2021-01-28)
@@ -24,7 +25,6 @@
 - [Pythonを闇改造して辞書リテラルのキー名や関数呼び出しの引数名を省略できるようにしてみた](https://aish.dev/python/keyword-shorthand.html) (2020-11-10)
 - [Pythonのタイムゾーンはpytzよりzoneinfoかdateutils.tzを使おう、という話](https://zenn.dev/atsuoishimoto/articles/505b3f4831443a1b63ad) (2020-09-29)
 - [&#91;Python&#93; jashin.dictattrで辞書の要素を属性値として参照する](https://aish.dev/python/jasin_dictattr.html) (2020-08-22)
-- [久しぶりに、 Raindrop.io の Python API に手を入れてみた](https://aish.dev/misc/20200819-raindropio-refresh-token.html) (2020-08-19)
 
 
 ## 著書:
