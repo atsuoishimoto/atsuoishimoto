@@ -14,7 +14,7 @@
 ## 最近のBlog
 
 
-- [Google Analytics APIでAdsenseの売上を取得する](https://aish.dev/python/20210408-google-analytics-adsenseRevenue.html) (2021-04-08)
+- [Python で Google Analytics Reporting APIを使う](https://aish.dev/python/20210408-google-analytics-adsenseRevenue.html) (2021-04-08)
 - [Django Rest Frameworkの処理メモ](https://aish.dev/python/djangorestframework-impl-memo.html) (2021-04-02)
 - [Google Analyticsの「今日」を開くブックマークレット](https://aish.dev/misc/20210225-bookmarklet-analytics-today.html) (2021-02-25)
 - [tse サンプル](https://aish.dev/python/tsesample.html) (2021-01-28)
