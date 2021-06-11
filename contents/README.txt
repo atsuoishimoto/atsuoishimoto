@@ -3,11 +3,13 @@ ext: .md
 article_template: jinja_text.txt
 ---
 
-# Atsuo Ishimoto
+# 石本 敦夫
 
-フリープログラマ。開発・執筆・講演など、お仕事お待ちしております。
+1990年代中ごろからPythonを使いはじめ、ShiftJIS版Pythonの開発・Python日本語メーリングリストの開設などをはじめとして、さまざまな活動も行ってきました。2001年より[python.jp](https://www.python.jp) を運営しています。
 
-[python.jp](https://www.python.jp) 管理人
+現在、フリープログラマ。開発・執筆・講演など、お仕事お待ちしております。
+
+
 
 - [Twitter: @AtsuoIshimoto](https://twitter.com/atsuoishimoto)
 - [Github: atsuoishimoto](https://github.com/atsuoishimoto)
