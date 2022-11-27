@@ -16,6 +16,9 @@
 ## 最近のBlog
 
 
+- [UoPeople ENGL 0008 顛末記](https://aish.dev/misc/20221105-engl0008-2.html) (2022-11-05)
+- [UoPeople ENGL 0008 中間報告](https://aish.dev/misc/20220928-engl0008-1.html) (2022-09-28)
+- [プライバシーポリシー](https://aish.dev/privacy.html) (2021-05-17)
 - [Python で Google Analytics Reporting APIを使う](https://aish.dev/python/20210408-google-analytics-adsenseRevenue.html) (2021-04-08)
 - [Django Rest Frameworkの処理メモ](https://aish.dev/python/djangorestframework-impl-memo.html) (2021-04-02)
 - [Google Analyticsの「今日」を開くブックマークレット](https://aish.dev/misc/20210225-bookmarklet-analytics-today.html) (2021-02-25)
@@ -23,10 +26,7 @@
 - [Pythonのhasattr()は遅い?](https://aish.dev/python/ishasattrslow.html) (2021-01-07)
 - [Jupyter Lab 小技集](https://aish.dev/misc/jupyterlab-tips.html) (2020-12-14)
 - [N+1問題におけるORMの重たさについて](https://aish.dev/misc/orm_n1problem.html) (2020-11-26)
-- [Django メモ集](https://aish.dev/python/django-memo.html) (2020-11-21)
-- [Pythonを闇改造して辞書リテラルのキー名や関数呼び出しの引数名を省略できるようにしてみた](https://aish.dev/python/keyword-shorthand.html) (2020-11-10)
 - [Pythonのタイムゾーンはpytzよりzoneinfoかdateutils.tzを使おう、という話](https://zenn.dev/atsuoishimoto/articles/505b3f4831443a1b63ad) (2020-09-29)
-- [&#91;Python&#93; jashin.dictattrで辞書の要素を属性値として参照する](https://aish.dev/python/jasin_dictattr.html) (2020-08-22)
 
 
 ## 著書:
